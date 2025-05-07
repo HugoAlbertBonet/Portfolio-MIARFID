@@ -9,7 +9,7 @@ This project compares the performance of various fine-tuned models for translati
 ## Speech Translation from Latvian to English
 This projects explores speech translation using Whisper end-to-end approach and a cascade approach of Whisper transcription and neural machine translation using different (NLLB) models. 
 
-## POS Tagging
+## [POS Tagging](https://github.com/HugoAlbertBonet/Portfolio-MIARFID/blob/main/POSTagging.pdf)
 This work involves training several models based on the Transformer architecture to address the problem of Part-Of-Speech tagging on a Spanish corpus, reduced to 66 distinct tags. Specifically, MarIA and BETO are compared with the classical TnT and HMM models. Additionally, the usefulness of fine-tuning large language models—specifically the second version of LLaMa—is evaluated for this same task.
 
 ## RAG Bot integrated with Slack for Hyperloop UPV
